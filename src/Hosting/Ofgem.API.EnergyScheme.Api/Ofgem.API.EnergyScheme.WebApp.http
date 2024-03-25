@@ -1,0 +1,6 @@
+@Ofgem.API.EnergyScheme.Api_HostAddress = http://localhost:5073
+
+GET {{Ofgem.API.EnergyScheme.Api_HostAddress}}/certificate/
+Accept: application/json
+
+###
